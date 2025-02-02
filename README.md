@@ -1,7 +1,6 @@
 # Hackers @ MIT iQuHACK 2025 
 
-2025-Quantum-Factorization-With-Quantum-Rings
-Challenge: Crack the Code with Quantum Factorization
+2025-Quantum-Factorization-With-Quantum-Rings Challenge: Crack the Code with Quantum Factorization
 
 # QIYA
 
