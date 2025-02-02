@@ -1,7 +1,7 @@
-# 2025-git-tutorial
-This repo is for the MIT iQuHACK 2025 git tutorial. 
-
 # Hackers @ MIT iQuHACK 2025 
+
+2025-Quantum-Factorization-With-Quantum-Rings
+Challenge: Crack the Code with Quantum Factorization
 
 # QIYA
 
